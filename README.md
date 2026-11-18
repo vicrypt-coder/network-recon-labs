@@ -3,8 +3,8 @@
 Hands-on labs I completed while learning cybersecurity (started September 2026). They cover the basic tools used to gather information about domains, networks and hosts.
 
 **Tools used:** nslookup, who.is, ipconfig, netstat, nmap, ping
-**Environments:** Windows 10, Kali Linux
 
+**Environments:** Windows 10, Kali Linux
 ## Projects
 
 ### 01. DNS and WHOIS reconnaissance
